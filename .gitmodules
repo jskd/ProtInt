@@ -1,0 +1,3 @@
+[submodule "ProtIntTP1"]
+	path = ProtIntTP1
+	url = git@github.com:jskd/ProtIntTP1.git
